@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project is a Power BI dashboard that analyzes Airbnb market performance across 10 major global cities. The aim of the project was to explore how Airbnb listings differ by city, room type, pricing, customer reviews, host verification, and rating performance.
+-This project is a Power BI dashboard that analyzes Airbnb market performance across 10 major global cities. The aim of the project was to explore how Airbnb listings differ by city, room type, pricing, customer reviews, host verification, and rating performance.
 
 The dashboard gives a clear view of Airbnb’s market concentration, customer review behavior, seasonal demand patterns, pricing differences, and city-level performance. It is designed to help users understand which cities dominate the Airbnb market, which room types are priced higher, and how customer ratings vary across locations.
 
