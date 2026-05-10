@@ -1,0 +1,3 @@
+*.pbix filter=lfs diff=lfs merge=lfs -text
+Listings.csv filter=lfs diff=lfs merge=lfs -text
+Reviews.csv filter=lfs diff=lfs merge=lfs -text
