@@ -24,6 +24,9 @@ The main datasets used were:
 - Reviews.csv
 - Listings_data_dictionary.csv
 - Reviews_data_dictionary.csv
+### Dataset Note
+
+Some dataset files are compressed as **".zip" ** files because they exceed GitHub’s file size limit. Please download and unzip them before using the files in Power BI.
 
 ## 🛠 Tools Used
 
